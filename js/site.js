@@ -5,9 +5,9 @@
 
   function popupHtml(lang) {
     if (lang === "en") {
-      return "<strong>Nordstrasse 70</strong><br>8006 Zürich<br>NordX rental building, near Letten";
+      return "<strong>Nordstrasse 70</strong><br>8006 Zürich<br>NordX – The NEXT Student Home<br>NextGen Properties, near Letten";
     }
-    return "<strong>Nordstrasse 70</strong><br>8006 Zürich<br>Mietshaus von NordX, nahe Letten";
+    return "<strong>Nordstrasse 70</strong><br>8006 Zürich<br>NordX – The NEXT Student Home<br>NextGen Properties, nahe Letten";
   }
 
   function syncChrome(lang, announce) {

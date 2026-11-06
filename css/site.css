@@ -237,6 +237,28 @@ h1 {
   font-size: 0.95rem;
 }
 
+.hero .continue,
+#access .continue {
+  margin: 1rem 0 0;
+  max-width: 40rem;
+  color: var(--ink-soft);
+}
+
+.account-label {
+  margin: 0 0 1.1rem;
+  padding: 0.8rem 0.95rem;
+  border: 1px solid var(--line);
+  background: var(--paper-raised);
+  color: var(--ink-soft);
+  font-size: 0.98rem;
+}
+
+.prose h3,
+#points h3 {
+  margin-top: 1.75rem;
+  font-size: 1.35rem;
+}
+
 .stats {
   display: grid;
   grid-template-columns: 1fr 1fr;
@@ -371,6 +393,10 @@ h3 {
   margin: 1.25rem 0 0;
   padding: 0;
   counter-reset: point;
+}
+
+.points-continued {
+  counter-reset: point 7;
 }
 
 .points li {

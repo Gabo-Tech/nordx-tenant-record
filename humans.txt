@@ -1,0 +1,18 @@
+/* TEAM */
+Author: anonymous former tenant
+Contact: none on this site
+
+/* SITE */
+Language: Deutsch, English
+Updated: 2026-11-06
+Doctype: HTML
+Components: Leaflet, OpenStreetMap, AOS, Bootstrap Icons
+Type: Newsreader, Outfit (Google Fonts)
+
+/* THANKS */
+Map data (c) OpenStreetMap contributors
+
+/* NOTE */
+No analytics, ads, or accounts.
+The language choice is stored in localStorage on this device.
+This is a tenant record, not a site of NextGen Properties GmbH.

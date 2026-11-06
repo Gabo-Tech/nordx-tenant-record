@@ -15,4 +15,8 @@ Map data (c) OpenStreetMap contributors
 /* NOTE */
 No analytics, ads, or accounts.
 The language choice is stored in localStorage on this device.
-This is a tenant record, not a site of NextGen Properties GmbH.
+This is a tenant record of a stay at NordX – The NEXT Student Home, Nordstrasse 70, 8006 Zürich, operated by NextGen Properties GmbH.
+The same operator is also written NextGen, NextGeneration, Next Generation, and Nord X.
+The record runs from an Airbnb move-in around 19–20 November 2025 through 30 September 2026.
+It includes the tenant’s recollection of daily life before the August 2026 renovation, kept separate from dated company emails.
+Not a site of NextGen Properties GmbH.

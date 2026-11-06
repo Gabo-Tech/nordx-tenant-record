@@ -1,8 +1,8 @@
 # Mietbericht Nordstrasse 70
 
-Anonymous, bilingual (German and English) record of a former tenancy at **NordX – The NEXT Student Home**, Nordstrasse 70, 8006 Zürich, operated by **NextGen Properties GmbH**.
+Anonymous, bilingual (German and English) record of a former tenancy at **NordX – The NEXT Student Home**, Nordstrasse 70, 8006 Zürich, operated by **NextGen Properties GmbH**. People also search the same operator as NextGen, Next Generation, NextGeneration, Next-Gen, Next Gen, and Nord X.
 
-This is a tenant record. It is not a website of NextGen Properties GmbH.
+The record starts with the Airbnb move-in around 19–20 November 2025 and the Untermietvertrag from 1 December 2025 to 30 September 2026. It includes the tenant’s own account of daily life before the August 2026 renovation, kept separate from the dated company emails, then the bathroom works, the hotels, the unanswered registered letter, and the Airbnb payment of EUR 1,817.22 (EUR 4,900 was requested). It is one former tenant’s account. It is not a website of NextGen Properties GmbH.
 
 The page is static. `index.html` at the repository root is the whole site. There is no build step and no package install.
 

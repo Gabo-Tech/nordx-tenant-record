@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  loc is root-relative so this file stays valid for a site served from the
+  domain root (GitHub Pages: branch main, folder / (root)).
+  After the Pages URL is known, you may replace loc and the hreflang hrefs
+  with absolute URLs. Do not point them at nextgenproperties.ch.
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://gabo-tech.github.io/nordx-tenant-record</loc>
+    <lastmod>2026-11-06</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="de" href="https://gabo-tech.github.io/nordx-tenant-record?lang=de"/>
+    <xhtml:link rel="alternate" hreflang="en" href="https://gabo-tech.github.io/nordx-tenant-record?lang=en"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://gabo-tech.github.io/nordx-tenant-record"/>
+  </url>
+</urlset>

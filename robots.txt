@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# No analytics and no visitor tracking. Language choice stays in localStorage.
+Sitemap: https://gabo-tech.github.io/nordx-tenant-record/sitemap.xml
